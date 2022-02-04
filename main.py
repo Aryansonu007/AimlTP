@@ -1,6 +1,7 @@
 import turtle
 import colorsys
 
+
 t = turtle.Turtle()
 s = turtle.Screen().bgcolor("black")
 t.color("white")
